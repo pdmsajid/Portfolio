@@ -1,0 +1,108 @@
+    * {
+        margin:0;
+        padding:0;
+        font-weight: normal;
+        font-size: 15px;
+        font-family: 'Play', sans-serif;
+    }
+    
+    div.footer{
+            height: 180px;
+            width: 960px;
+            background-color: #999966;
+            border: 0.5px dotted black;
+            
+    }
+    
+        div.footerBlock3{
+        height: 140px;
+        width: 300px;
+        float: right;
+        margin-top:20px;
+    }
+    
+    div.footerBlock1{
+        margin-top:20px;
+        height: 140px;
+        width: 300px;
+        float: left;
+        border-right:2px groove white;
+    }
+    div.footerBlock2{
+        margin-top: 10px;
+        height: 140px;
+        width: 300px;
+        float:left;
+        text-align: center;
+        border-right: 2px groove white;
+        padding:0px 20px;
+        
+    }
+    
+
+    
+    div p.topic{
+        font-size: 18px;
+        font-weight: bold;
+        color:blue;
+        text-align: left;
+        text-align:center;
+    }
+    
+    div li img{
+        width: 32px;
+        height:32px;
+    }
+    div ul li{
+        display: inline;
+    }
+   div p{
+       text-align:center;
+   }
+  
+  div.socialMedia{
+        width: 300px;
+        height:35px;
+        float:right;
+        padding-top: 30px;
+  }
+  
+  div p.copyright{
+      text-align: center;
+      color:white;
+      font-weight: bold;
+      margin-top: 90px;
+  }
+  address.address { 
+    display: block;
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+    font-size:20px;
+}
+address label{
+    display: block;
+    text-decoration: dotted;
+    text-align:center;
+    font-size:27px;
+    font-weight: bold;
+    color: white;
+}
+label.email{
+    display: block;
+    text-align: center;
+    margin:5px;
+    background-color: #f1f1f1;
+     border: 2px solid black;
+}
+
+label.emailHeader{
+    font-size:25px;
+    font-weight: bolder;
+}
+
+.socialMediaAlign{
+display:block;
+font-size: 10px;
+font-weight: lighter;
+}
